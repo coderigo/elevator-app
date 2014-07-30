@@ -1,5 +1,6 @@
 As part of a screening process I was recently asked to build a basic web application.
-This repo is what I put together in the time avaialable.
+
+This repo is what I put together in the time available.
 
 ## The brief
 Build a web app to administer an elevatory system that:
