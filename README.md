@@ -15,7 +15,7 @@ Build a web app to administer an elevatory system that:
 - Shows each elevator and its direction of travel (up, down, stationary) along with its load.
 
 ## Built application
-The built end result can be found in the **`compiled-app`** directory.
+The built app can be found in the **`compiled-app`** directory.
 
 This can be served through your web server of choice.
 
