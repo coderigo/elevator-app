@@ -1,3 +1,8 @@
+elevator-app
+========================
+
+[![Build Status](https://travis-ci.org/coderigo/elevator-app.png?branch=master)](https://travis-ci.org/coderigo/elevator-app)
+
 As part of a screening process I was recently asked to build a basic web application.
 
 This repo is what I put together in the time available.
